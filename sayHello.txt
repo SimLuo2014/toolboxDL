@@ -1,2 +1,3 @@
 Hello Git in win7
 Hello free Git.
+Git has a mutable index called stage.
