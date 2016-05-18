@@ -1,0 +1,2 @@
+Hello Git in win7
+Hello free Git.
